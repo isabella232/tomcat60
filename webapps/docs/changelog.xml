@@ -44,7 +44,7 @@
 <!-- Section names:
  General, Catalina, Coyote, Jasper, Cluster, Web applications, Other
 -->
-<section name="Tomcat 6.0.52 (violetagg)">
+<section name="Tomcat 6.0.51.cloudera.0 (myoder)">
 </section>
 <section name="Tomcat 6.0.51 (violetagg)" rtext="released 2017-03-16">
   <subsection name="Jasper">

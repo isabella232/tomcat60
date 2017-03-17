@@ -25,10 +25,10 @@
 # ----- Version Control Flags -----
 version.major=6
 version.minor=0
-version.build=51
+version.build=51.cloudera.0
 version.patch=0
 version.suffix=-dev
-version=6.0.52
+version=6.0.51.cloudera.0
 
 # ----- Build control flags -----
 execute.test.bio=true
